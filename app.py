@@ -6,7 +6,7 @@ from PIL import Image, ImageDraw, ImageFont
 from io import BytesIO
 
 # Set up OpenAI API credentials
-openai.api_key = "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"
+openai.api_key = "YOUR API"
 
 app = Flask(__name__)
 
